@@ -24,6 +24,7 @@ function App() {
   // jsx 코드라고 한다.
   return (
     <>
+    <title> 오늘의 수업 실습 </title>
     <div> 
       { movies.map((items) => {
         return (
